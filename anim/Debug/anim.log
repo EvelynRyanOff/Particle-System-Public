@@ -1,0 +1,17 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  BaseSystem.cpp
+  ParticleSystem.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\print(11): warning STL4038: The contents of <print> are available only with C++23 or later.
+  particleSimulator.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\print(11): warning STL4038: The contents of <print> are available only with C++23 or later.
+D:\classes\csc473\A2\ComputerAnimationTemplate2024\anim\particleSimulator.cpp(130,29): warning C4101: 'length2': unreferenced local variable
+  ResourceManager.cpp
+  myScene.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\print(11): warning STL4038: The contents of <print> are available only with C++23 or later.
+  GlobalResourceManager.cpp
+  BaseSimulator.cpp
+  BaseObject.cpp
+  animTcl.cpp
+  anim.cpp
+  Generating Code...
+  anim.vcxproj -> D:\classes\csc473\A2\ComputerAnimationTemplate2024\Build\anim.exe
